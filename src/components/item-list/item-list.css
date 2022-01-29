@@ -1,0 +1,18 @@
+.list-wrapper {
+  width: 50%;
+  margin-right: 20px;
+}
+
+.list-group-item {
+  width: 100%;
+  padding: 0.9rem 1rem;
+  font-size: 18px;
+  cursor: pointer;
+  user-select: none;
+  background-color: rgba(var(--bs-secondary-rgb),var(--bs-bg-opacity))!important;
+
+}
+
+.list-group li a:hover {
+  background: #303030 !important;
+}

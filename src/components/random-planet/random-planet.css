@@ -1,0 +1,20 @@
+.planet-wrapper {
+  margin: 25px 0;
+}
+
+.planet-card {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+}
+
+.card-items {
+  border: none;
+}
+
+.planet {
+  width: 180px;
+  height: 180px;
+  border-radius: 10px;
+  margin-right: 30px;
+}
